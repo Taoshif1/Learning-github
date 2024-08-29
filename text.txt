@@ -1,0 +1,6 @@
+Working directory -> stagging area -> local repo. -> remote repo.
+
+okay, changing some text.
+didn't showed modified option, its still the same.
+
+i dont know, maybe im still in stagging area.
