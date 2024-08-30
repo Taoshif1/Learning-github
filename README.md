@@ -12,6 +12,11 @@
 </head>
 
 <body>
+
+<p>
+    Almost at the end of learning GitHub. Just practising for better experience and also enjoying a lot. Listing down the list of things i learn't so far.
+</p>
+
 <p>This is multiple line code yahoooo </p>
 <ol>
     <li> HTML </li>
@@ -33,4 +38,5 @@ p, ol{
 }
 ```
 [Udemy Course link](https://www.udemy.com/course/git-and-github-for-absolute-beginners/learn/lecture/35026478#overview)
+
 ###### Heading6
