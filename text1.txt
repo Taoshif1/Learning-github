@@ -1,0 +1,5 @@
+okay, first i added some lines on this file in VS code.
+Later i used reset command and everything was gone.
+Then i pushed the file in GitHub.
+Now i am writting in GitHub and i am enjoying this alot!!
+let's commit up to this, here on GitHub.
