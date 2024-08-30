@@ -1,5 +1,7 @@
 Working directory -> stagging area -> local repo. -> remote repo.
 
+make changes -> git add -> git commit -> git push
+
 okay, changing some text.
 didn't showed modified option, its still the same.
 
